@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Polidivisibles {
 
 	public static void main(String[] args) {
-		
+		//Comentario prueba uso Git
 		boolean continuar = true;
 		
 		Scanner sc = new Scanner (System.in); 
