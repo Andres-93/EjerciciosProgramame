@@ -11,7 +11,7 @@ public class Polidivisibles {
 		Scanner sc = new Scanner (System.in); 
 		
 		System.out.println("Introduzca el numero que desea comprobar: ");
-		//OTRO COMENTARIO.
+		//OTRO COMENTARIO.de prueba
 		int num = Integer.parseInt(sc.nextLine());
 				
 		int numCifras = contarCifras(num);   //contamos las cifras del numero
